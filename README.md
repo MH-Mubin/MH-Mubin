@@ -26,7 +26,7 @@
 ### 🛠️ Technologies & Tools I Use
 
 #### 📌 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,C,C++,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,c++,py)](https://skillicons.dev)
 
 #### 📌 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
