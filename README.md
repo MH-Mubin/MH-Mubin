@@ -21,7 +21,7 @@
 - ⚡ **Fun Fact:** Every Error is a step of stair towards success, So feel the excitment of it and build the future. 
 
 ---
-<a href="https://app.daily.dev/mahmudhasanmubin"><img src="https://api.daily.dev/devcards/v2/dzORCOEz4gjrkkYcXJLVL.png?type=wide&r=r91" width="652" alt="Mahmud Hasan Mubin's Dev Card"/></a>
+<a href="https://app.daily.dev/mahmudhasanmubin"><img src="https://api.daily.dev/devcards/v2/dzORCOEz4gjrkkYcXJLVL.png?type=wide&r=xv3" width="652" alt="Mahmud Hasan Mubin's Dev Card"/></a>
 ---
 ### 🛠️ Technologies & Tools I Use
 
