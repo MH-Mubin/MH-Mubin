@@ -13,12 +13,12 @@
 ---
 
 ### 🧠 About Me:
-- 🔭 I’m currently working on: Inventory Management System & Task Manager  
+- 🔭 I’m currently working on: E-Commerce System, Inventory Management System & Task Manager  
 - 🌱 I’m learning advanced backend and performance optimization  
 - 💬 Ask me about: Node.js, Express.js, MongoDB, React.js  
 - 🚀 I love solving real-world problems through code  
 - 🧘 I believe in discipline, growth mindset, and consistency  
-- ⚡ **Fun Fact:** Every Error is a step of stair towards success, So feel the excitment of it and build the future. 
+- ⚡ **Fun Fact:** Every Error is a step of stair towards success, So feel the excitment of it and build the future.
 
 ---
 <a href="https://app.daily.dev/mahmudhasanmubin"><img src="https://api.daily.dev/devcards/v2/dzORCOEz4gjrkkYcXJLVL.png?type=wide&r=xv3" width="850" alt="Mahmud Hasan Mubin's Dev Card"/></a>
@@ -26,30 +26,30 @@
 ### 🛠️ Technologies & Tools I Use
 
 #### 📌 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,c,c++,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,cpp,py)](https://skillicons.dev)
 
 #### 📌 Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 #### 📌 Backend & Database
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql)](https://skillicons.dev)
 
 #### 📌 Tools & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,vscode,figma,netlify,notion,obsidian)](https://skillicons.dev)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-Mubin&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-Mubin&theme=react&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 ---
 
 ### 🧭 Motto
-> "Discipline creates freedom. Every day of focused effort builds my future."
+> "You Have to sacrifice small things to achieve something big."
 
 ---
 
