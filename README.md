@@ -42,8 +42,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-Mubin&theme=react&hide_border=true" />
-  <img width="49%" height="100" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
+  <img width="49%" height="205" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-Mubin&theme=react&hide_border=true" />
+  <img width="49%" height="202" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
 </p>
 
 ---
