@@ -43,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" height="205" src="https://streak-stats.demolab.com/?user=MH-Mubin&theme=react&hide_border=true" />
+  <img width="48%" height="202" src="https://streak-stats.demolab.com/?user=MH-Mubin&theme=react&hide_border=true" />
   <img width="48%" height="202" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
 </p>
 
