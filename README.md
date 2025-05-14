@@ -13,8 +13,9 @@
 ---
 
 ### 🧠 About Me:
-- 🔭 I’m currently working on: E-Commerce System, Inventory Management System & Task Manager  
-- 🌱 I’m learning advanced backend and performance optimization  
+- 🔭 I’m currently working on: E-Commerce System
+- 🛠️ Projects I've done: Inventory Management System, Task Manager, Portfolio, Typing speed test, weather check site and so on.
+- 🌱 I’m learning advanced backend and performance optimization & React.js
 - 💬 Ask me about: Node.js, Express.js, MongoDB, React.js  
 - 🚀 I love solving real-world problems through code  
 - 🧘 I believe in discipline, growth mindset, and consistency  
@@ -42,7 +43,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" height="205" src="https://github-readme-streak-stats.herokuapp.com/?user=MH-Mubin&theme=react&hide_border=true" />
+  <img width="48%" height="205" src="https://streak-stats.demolab.com/?user=MH-Mubin&theme=react&hide_border=true" />
   <img width="48%" height="202" src="https://github-readme-stats.vercel.app/api?username=MH-Mubin&show_icons=true&theme=react&hide_border=true" />
 </p>
 
