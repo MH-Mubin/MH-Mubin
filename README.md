@@ -14,7 +14,7 @@
 
 ### 🧠 About Me:
 - 🔭 I’m currently working on: E-Commerce System
-- 🛠️ Projects I've done: Inventory Management System, Task Manager, Portfolio, Typing speed test, weather check site and so on.
+- 🛠️ Projects I've done: Inventory Management System, Task Manager, Portfolio, Typing speed test, weather app, Dental Clinic website and so on.
 - 🌱 I’m learning advanced backend and performance optimization & React.js
 - 💬 Ask me about: Node.js, Express.js, MongoDB, React.js  
 - 🚀 I love solving real-world problems through code  
