@@ -42,7 +42,7 @@
 
 #### 📌 Tools & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,vscode,figma,netlify,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,docker,vscode,figma,netlify,notion,obsidian,discord)](https://skillicons.dev)
 
 ---
 
@@ -67,5 +67,3 @@
 🔗 LinkedIn: [Mahmud Hasan Mubin](https://www.linkedin.com/in/mahmud-hasan-mubin/)
 
 ---
-
-_Last updated: {{today}}_
