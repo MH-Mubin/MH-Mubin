@@ -38,7 +38,7 @@
 
 #### 📌 Backend & Database
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql)](https://skillicons.dev)
 
 #### 📌 Tools & DevOps
 
